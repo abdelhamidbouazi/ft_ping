@@ -4,7 +4,7 @@ ft_transcendence is the final project in the common core curriculum at 42 (1337 
 
 ## Project Overview
 
-**Proposed Name:** BeyondSphere
+**Name:** BeyondSphere
 
 This project includes a rich feature set such as real-time chat, user authentication, and multiplayer functionality. The chat system supports direct messaging and channels and was designed with scalability and responsiveness in mind. 
 
